@@ -27,7 +27,7 @@ header.nav{
 /* 一応ここでアウターを定義しておく */
 #content-area{
   width:100%;
-  max-width: 1280px;
+  /*max-width: 1280px;*/
   padding-left:260px;
   padding-right:20px;
 }
